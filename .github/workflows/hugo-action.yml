@@ -33,7 +33,7 @@ jobs:
           #https://docs.github.com/cn/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token
           #粘贴personal_token：
           #进入repo的Settings->Secrets一栏，选择New repository secret
-          #personal_token: ${{ secrets.ACTIONS_DEPLOY_KEY }}	# 发布到其他repo需要提供上面生成的personal access token
-          deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+          personal_token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}	# 发布到其他repo需要提供上面生成的personal access token
+          #deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
           publish_dir: ./public	# 注意这里指的是要发布哪个文件夹的内容，而不是指发布到目的仓库的什么位置，因为hugo默认生成静态网页到public文件夹，所以这里发布public文件夹里的内容
           publish_branch: main	# 发布到哪个branch
