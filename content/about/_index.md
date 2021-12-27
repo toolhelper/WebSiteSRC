@@ -1,6 +1,7 @@
 ---
 title: "简介"
 date: "2016-05-05"
+description: "关于"
 disable_comments: true
 ---
 
@@ -22,7 +23,7 @@ disable_comments: true
 
 - 微信：ishenweiyan
 - 地址：广州市黄埔区科学城科学大道182号创新大厦
-- 邮箱：<ishenwieyan@foxmail.com>
+- 邮箱：<[shenlab@foxmail.com](http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=gfLp5O-t4OPB5_757ODo7a-i7uw)>
 
 
 ### 其他信息
