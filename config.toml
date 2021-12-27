@@ -1,8 +1,8 @@
 baseurl = "https://shen.bioitee.com"
 RelativeURLs=true
 CanonifyURLs=true
-languageCode = "zh-cmn-Hans"	                  # html的lang属性值
-DefaultContentLanguage = "zh-cmn-Hans"   	  # 默认内容语言用于选择i18n语言模板
+languageCode = "zh-cn"	                  # html的lang属性值
+DefaultContentLanguage = "zh-cn"   	  # 默认内容语言用于选择i18n语言模板
 title = "沈维燕 | BioIT 爱好者"
 theme = "hugo-ivy"
 #googleAnalytics = "UA-112592341-1"
@@ -13,7 +13,7 @@ enableEmoji = true
 footnotereturnlinkcontents = "↩"
 MetaDataFormat = "yaml" 			  # format of a new post
 enableGitInfo = false
-publishDir = "docs"
+publishDir = "public"
 
 
 [[menu.main]]
