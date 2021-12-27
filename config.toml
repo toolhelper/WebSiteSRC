@@ -68,6 +68,9 @@ publishDir = "public"
     alt = "Steven Shen"
     tag = ""
 
+[markup.goldmark.renderer]
+    unsafe = true
+
 [params.lang.edit]
     cn = "编辑"
 [params.lang.declare]
