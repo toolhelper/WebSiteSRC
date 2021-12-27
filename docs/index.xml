@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>简介 on 沈维燕 | BioIT 爱好者</title>
+    <link>https://shen.bioitee.com/</link>
+    <description>Recent content in 简介 on 沈维燕 | BioIT 爱好者</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cmn-Hans</language>
+    <lastBuildDate>Mon, 12 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://shen.bioitee.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>声明</title>
+      <link>https://shen.bioitee.com/declare/</link>
+      <pubDate>Fri, 30 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://shen.bioitee.com/declare/</guid>
+      <description>关于版权： 版权：自由转载-非商用-非衍生-保持署名（知识共享署名 4.0 国际许可协议） 邮箱：ishenweiyan@qq.com 转载：原创博客请在</description>
+    </item>
+    
+    <item>
+      <title>测试</title>
+      <link>https://shen.bioitee.com/debug/</link>
+      <pubDate>Thu, 30 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://shen.bioitee.com/debug/</guid>
+      <description>沈维燕 测试问题记录 如果 config.toml 中 url 的名称与 content/*/index.md、content/*.md 中的 title 名称不一致，则会触发 menu 中的 item 在 active 时候</description>
+    </item>
+    
+  </channel>
+</rss>
