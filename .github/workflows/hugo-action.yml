@@ -39,3 +39,4 @@ jobs:
           publish_branch: main	# 发布到哪个branch
           force_orphan: true
           commit_message: ${{ github.event.head_commit.message }}
+          cname: shen.bioitee.com
