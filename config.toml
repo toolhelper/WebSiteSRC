@@ -43,7 +43,7 @@ publishDir = "public"
 
 [params]
     siteurl = "https://shen.bioitee.com"
-    description = "Welcome to the blog site of Steven Shen."
+    description = "Bio & IT 爱好者"
     disqusURL = "https://shenweiyan.github.io/shen.bioitee.com/"
     customJS = ["js/fix-toc.js", "js/center-img.js", "js/right-quote.js", "js/no-highlight.js", "js/fix-footnote.js", "js/math-code.js", "js/external-link.js", "js/alt-title.js", "js/header-link.js", "js/dom-scripts.js"]
     githubContentURL = "https://github.com/shenweiyan/shen.bioitee.com/edit/master/content/"
@@ -59,13 +59,13 @@ publishDir = "public"
     moreinfo = "<br/><br/>[![yuque](https://img.shields.io/badge/沈维燕-语雀知识库-blueviolet)](https://www.yuque.com/shenweiyan) [![wechat](https://img.shields.io/badge/沈维燕-微信公众号-important)](https://apps-db.oss-cn-shenzhen.aliyuncs.com/bioitee/bioitee.png) [![zhihu](https://img.shields.io/badge/沈维燕-知乎-blue)](https://www.zhihu.com/people/shenweiyan) [![bioitee](https://img.shields.io/badge/沈维燕-BioIT爱好者-green)](https://www.bioitee.com/)"
 
 [params.author]
-    en = "Steven Shen"
+    en = "Steven Shum"
     cn = "沈维燕"
 
 [params.logo.en]
     img = "https://apps-db.oss-cn-shenzhen.aliyuncs.com/logos/shenweiyan.png"
     url = "/"
-    alt = "Steven Shen"
+    alt = "Steven Shum"
     tag = ""
 
 [markup.goldmark.renderer]
