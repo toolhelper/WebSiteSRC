@@ -1,7 +1,15 @@
+
+
 ---
 title: "彩蛋"
+slug: test
 date: "2016-05-05"
 description: "彩蛋"
+type: post
+published: true
+author: 沈维燕
+category:
+tags:
 disable_comments: true
 ---
 
@@ -13,7 +21,7 @@ disable_comments: true
 
 如果你喜欢生信，爱好 IT，乐于分享，欢迎关注并加入我们，一起跨界 Bio+IT。
 
-<p style="text-align:center;"><img src="https://apps-db.oss-cn-shenzhen.aliyuncs.com/bioitee/bioitee.png"/></p>
+![bioitee](https://apps-db.oss-cn-shenzhen.aliyuncs.com/bioitee/bioitee.png)
 
 -----------
 

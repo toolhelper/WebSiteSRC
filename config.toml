@@ -4,7 +4,7 @@ CanonifyURLs=true
 languageCode = "zh-cn"	                  # html的lang属性值
 DefaultContentLanguage = "zh-cn"   	  # 默认内容语言用于选择i18n语言模板
 title = "沈维燕 | BioIT 爱好者"
-theme = "hugo-ivy"
+theme = "ICS-Hugo-Theme"
 #googleAnalytics = "UA-112592341-1"
 disqusShortname = "shen-bioinit"
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
@@ -53,6 +53,7 @@ publishDir = "public"
     highlightjsCDN = "//cdn.bootcss.com"
     highlightjsTheme = "github"
     dateFormat = "2019-01-01" # "2019-01-01, Mon, "
+    loadTypekit = false
 
 [params.footer]
     copyright = "<br/><br/>&copy; Powered by [ICS-Hugo-Theme](https://github.com/shenweiyan/ICS-Hugo-Theme) and  [Hugo](https://gohugo.io) | [Bio IT 爱好者](https://www.bioitee.com/) 2018 - {year} | [粤ICP备16023717号](http://beian.miit.gov.cn/)<br/>"
@@ -73,16 +74,16 @@ publishDir = "public"
 
 [params.lang.edit]
     cn = "编辑"
-[params.lang.declare]
+[params.lang.license]
     cn = "声明"
 [params.lang.subscribe]
     cn = "订阅"
 
 [params.utteranc]
-enable = true              
-repo = "shenweiyan/issues"    # 存储评论的Repo，格式为 owner/repo
-issueTerm = "title"          # 表示你选择以那种方式让github issue的评论和你的文章关联可以选择默认的 pathname。
-theme = "github-light"        # 样式主题
+    enable = true              
+    repo = "shenweiyan/issues"    # 存储评论的Repo，格式为 owner/repo
+    issueTerm = "title"           # 表示你选择以那种方式让github issue的评论和你的文章关联可以选择默认的 pathname。
+    theme = "github-light"        # 样式主题
 
 [taxonomies]
     tag = "topic/tags"
