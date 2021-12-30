@@ -1,4 +1,4 @@
-baseurl      = "https://shen.bioitee.com"
+baseurl      = https://shen.bioitee.com
 RelativeURLs = true
 CanonifyURLs = true
 languageCode = "zh-cn"	                  # html的lang属性值
