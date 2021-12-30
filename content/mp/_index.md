@@ -31,9 +31,12 @@ disable_comments: true
 
 这是一个开源的公益项目，你可以拿来制作自己的网址导航，也可以做与导航无关的网站。
 
+![webstack-hugo demo](https://cdn.jsdelivr.net/gh/shenweiyan/CustomAssets/images/webstack-hugo.jpg)
+
 -----------
 
 ## Md2X Editor
 
 [Md2X Editor](https://mdx.bioitee.com/) 是一个基于 Md2All 二次开发的 Markdown 排版利器，支持 "一键排版"，支持 "CSS 样式自定义"，支持 80 多种代码高亮。
 
+![Md2X Editor Domo](https://cdn.jsdelivr.net/gh/shenweiyan/CustomAssets/images/md2xeditor.jpg)
