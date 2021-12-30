@@ -1,44 +1,44 @@
-baseurl = "https://shen.bioitee.com"
-RelativeURLs=true
-CanonifyURLs=true
+baseurl      = "https://shen.bioitee.com"
+RelativeURLs = true
+CanonifyURLs = true
 languageCode = "zh-cn"	                  # html的lang属性值
 DefaultContentLanguage = "zh-cn"   	  # 默认内容语言用于选择i18n语言模板
-title = "沈维燕 | BioIT 爱好者"
-theme = "ICS-Hugo-Theme"
+title            = "沈维燕 | BioIT 爱好者"
+theme            = "ICS-Hugo-Theme"
 #googleAnalytics = "UA-112592341-1"
-disqusShortname = "shen-bioinit"
-ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
-hasCJKLanguage = true                             # .WordCount works correctly for chinese
-enableEmoji = true
+disqusShortname  = "shen-bioinit"
+ignoreFiles      = ["\\.Rmd$", "_files$", "_cache$"]
+hasCJKLanguage   = true                             # .WordCount works correctly for chinese
+enableEmoji      = true
 footnotereturnlinkcontents = "↩"
-MetaDataFormat = "yaml" 			  # format of a new post
-enableGitInfo = false
-publishDir = "public"
+MetaDataFormat   = "yaml" 			  # format of a new post
+enableGitInfo    = false
+publishDir       = "public"
 
 
 [[menu.main]]
-    name = "首页"
-    url = "https://shen.bioitee.com"
+    name   = "首页"
+    url    = "https://shen.bioitee.com"
     weight = 1
 [[menu.main]]
-    name = "关于"
-    url = "/about/"
+    name   = "关于"
+    url    = "/about/"
     weight = 2
 [[menu.main]]
-    name = "博文"
-    url = "/articles/"
+    name   = "博文"
+    url    = "/articles/"
     weight = 3
 [[menu.main]]
-    name = "彩蛋"
-    url = "/mp/"
+    name   = "彩蛋"
+    url    = "/mp/"
     weight = 4
 [[menu.main]]
-    name = "语雀"
-    url = "https://www.yuque.com/shenweiyan"
+    name   = "语雀"
+    url    = "https://www.yuque.com/shenweiyan"
     weight = 5
 [[menu.main]]
-    name = "留言"
-    url = "/feedback/"
+    name   = "留言"
+    url    = "/feedback/"
     weight = 6
 
 [params]
@@ -77,12 +77,12 @@ publishDir = "public"
     cn = "订阅"
 
 [params.utteranc]
-    enable = true              
-    repo = "shenweiyan/issues"    # 存储评论的Repo，格式为 owner/repo
+    enable    = true              
+    repo      = "shenweiyan/issues"    # 存储评论的Repo，格式为 owner/repo
     issueTerm = "title"           # 表示你选择以那种方式让github issue的评论和你的文章关联可以选择默认的 pathname。
-    theme = "github-light"        # 样式主题
+    theme     = "github-light"        # 样式主题
 
 [taxonomies]
-    tag = "topic/tags"
-    series = "topic/series"
+    tag      = "topic/tags"
+    series   = "topic/series"
     category = "topic/categories"
