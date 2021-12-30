@@ -12,7 +12,8 @@ jobs:
       - uses: actions/checkout@v2	# 引用actions/checkout这个action，与所在的github仓库同名
         with:
          submodules: true  # Fetch Hugo themes (true OR recursive) 获取submodule主题
-         fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
+         fetch-depth: 2    # Fetch all history for .GitInfo and .Lastmod
+        run: git checkout HEAD^
 
       - name: Setup Hugo	# 步骤名自取
         uses: peaceiris/actions-hugo@v2	# hugo官方提供的action，用于在任务环境中获取hugo
