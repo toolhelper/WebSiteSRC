@@ -8,7 +8,7 @@ disable_comments: true
 
 ### 关于作者
 
-沈维燕(Steven Shen)，一个 90 后的广东人，熟悉粤语、国语，略懂英语。2013 年毕业于南方医科大学（原中国人民解放军第一军医大学）基础医学学院生物信息学专业。现工作生活于广州，主要从事 Bio IT 的一些相关工作。平时喜欢逛逛技术论坛，玩玩羽毛球，看看电影，瞎折腾一下技术，不务正业之余喜欢记录一些生活工作学习中的一些想法。喜欢分享，喜欢把事情简单化，程序化。
+沈维燕(Steven Shum)，一个 90 后的广东人，熟悉粤语、国语，略懂英语。2013 年毕业于南方医科大学（原中国人民解放军第一军医大学）基础医学学院生物信息学专业。现工作生活于广州，主要从事 Bio IT 的一些相关工作。平时喜欢逛逛技术论坛，玩玩羽毛球，看看电影，瞎折腾一下技术，不务正业之余喜欢记录一些生活工作学习中的一些想法。喜欢分享，喜欢把事情简单化，程序化。
 
 
 ### 专业技能
@@ -23,7 +23,7 @@ disable_comments: true
 
 - 微信：ishenweiyan
 - 地址：广州市黄埔区科学城科学大道182号创新大厦
-- 邮箱：<[shenlab@foxmail.com](http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=gfLp5O-t4OPB5_757ODo7a-i7uw)>
+- 邮箱：[shumlab@foxmail.com](http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=shumlab@foxmail.com)
 
 
 ### 其他信息
@@ -47,6 +47,10 @@ disable_comments: true
 <br/>
 
 **本博客更新历史：**
+
+- **2021.12.30：**
+    1. 更新配置，把 [ICS-Hugo-Theme](https://shenweiyan.github.io/ICS-Hugo-Theme/) 正式部署到本站点。
+    2. 全程使用 GitHub Actions 实现 push 后一键化部署。
 
 - **2021.03.29：**
     1. 更新 footer 样式，实现 Copyright 日期自动更新。
