@@ -23,7 +23,7 @@ disable_comments: true
 
 - 微信：ishenweiyan
 - 地址：广州市黄埔区科学城科学大道182号创新大厦
-- 邮箱：[shumlab@foxmail.com](http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=shumlab@foxmail.com)
+- 邮箱：[shenlab@foxmail.com](http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=shenlab@foxmail.com)
 
 
 ### 其他信息
