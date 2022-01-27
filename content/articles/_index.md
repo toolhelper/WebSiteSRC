@@ -13,10 +13,7 @@ disable_comments: true
 
 ## 2022
 
-本页面不再同步自 2022-01-01 起相关的所有文章，如需浏览(阅读) 2022-01-01 后的文章，请移步语雀平台，感谢支持。
-
-- [https://www.yuque.com/shenweiyan](https://www.yuque.com/shenweiyan)
-
+本页面不再同步自 2022-01-01 起相关的所有文章，如需浏览(阅读) 2022-01-01 后的文章，请移步语雀平台([https://www.yuque.com/shenweiyan](https://www.yuque.com/shenweiyan))，感谢支持。
 
 
 ## 2021
