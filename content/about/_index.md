@@ -21,7 +21,7 @@ disable_comments: true
 
 ### 联系方式
 
-- 微信：ishenweiyan
+- 微信：ishenweiyan（[请备注真实姓名，否则不通过](https://www.yuque.com/shenweiyan/about/me#iSxp2)）
 - 地址：广州市黄埔区科学城科学大道182号创新大厦
 - 邮箱：[shenlab@foxmail.com](http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=shenlab@foxmail.com)
 
