@@ -57,4 +57,4 @@ jobs:
           publish_branch: main	# 发布到哪个branch
           force_orphan: true
           full_commit_message: ${{ github.event.head_commit.message }}
-          cname: shumlab.com
+          cname: www.shumlab.com
