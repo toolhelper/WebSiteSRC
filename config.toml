@@ -25,28 +25,32 @@ publishDir       = "public"
     url    = "/about/"
     weight = 2
 [[menu.main]]
-    name   = "博文"
-    url    = "/articles/"
+    name   = "技术"
+    url    = "/tech/"
     weight = 3
 [[menu.main]]
-    name   = "彩蛋"
-    url    = "/mp/"
+    name   = "随笔"
+    url    = "/note/"
     weight = 4
+[[menu.main]]
+    name   = "作品"
+    url    = "/portfolio/"
+    weight = 5
 [[menu.main]]
     name   = "语雀"
     url    = "https://www.yuque.com/shenweiyan"
-    weight = 5
+    weight = 6
 [[menu.main]]
     name   = "留言"
     url    = "/feedback/"
-    weight = 6
+    weight = 7
 
 [params]
-    siteurl     = "https://shen.bioitee.com"
+    siteurl     = "https://www.shumlab.com"
     description = "Bio & IT 爱好者"
     disqusURL   = "https://shenweiyan.github.io/shen.bioitee.com/"
     customJS    = []
-    githubContentURL = "https://github.com/shenweiyan/shen.bioitee.com/edit/master/content/"
+    githubContentURL = "https://github.com/shumlab/shumlab.github.io/edit/master/content/"
     highlightjsTheme = "https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.3.1/build/styles/github.min.css"
     dateFormat  = "2019-01-01"   #"2019-01-01, Mon, "
     loadTypekit = false
