@@ -9,6 +9,7 @@ category:
 tags:
 ---
 
+> 编者：本文章同步自做作者[语雀知识库](https://www.yuque.com/shenweiyan/)，请点击[这里](https://www.yuque.com/shenweiyan/cookbook/chgoa2xahz44rkld)阅读原文。
 
 CentOS 6.5 的老服务器没法直接使用官方提供的二进制版本，其中最要命的提示就是 Glibc 的版本太低，且非 root 用户手动升级 glibc 基本是个无解的难题。于是考虑从官方提供的 Blast+ 源码进行手动编译安装。
 
@@ -55,7 +56,7 @@ The blast.lib library file will be found in c++\compilers\msvc800_prj\static\lib
 
 - `--with-build-root=ReleaseMT`，将会安装到当前目录的 ReleaseMT 目录下；
 
-![image.png](https://shumlab.oss-cn-guangzhou.aliyuncs.com/2022/png/126032/1669878359064-7379d629-489e-4574-afc6-dd7c5520526b.png)
+![image.png](https://cos.shenlab.cn/yuque/0/2022/png/126032/1669878359064-7379d629-489e-4574-afc6-dd7c5520526b.png)
 
 - `--with-build-root=/usr/local/shenweiyan/ncbi-blast-2.13.0+`，将会安装到该指定的路径中。
 
@@ -69,9 +70,9 @@ Gcc 的手动编译安装还是挺简单的，参考：《[非 root 用户手动
 Gcc 安装完以后需要执行以下两步：
 
 1. 把可执行程序添加到 PATH 环境：**export PATH=/Path/To/gcc-7.3.0/bin:$PATH**
-2. 解决 **libstdc++.so.6: version `GLIBCXX_3.4.22' not found **
+2. 解决 **libstdc++.so.6: version `GLIBCXX_3.4.22' not found**
 
-![image.png](https://shumlab.oss-cn-guangzhou.aliyuncs.com/2022/1669877037084-c1e62935-d82b-4e1e-9a3e-ea7c4178a89c.png)
+![image.png](https://cos.shenlab.cn/yuque/0/2022/png/126032/1669877037084-c1e62935-d82b-4e1e-9a3e-ea7c4178a89c.png)
 ```python
 export LD_LIBRARY_PATH=/Path/To/gcc-7.3.0/lib:/Path/To/gcc-7.3.0/lib64:$LD_LIBRARY_PATH
 ```
