@@ -41,9 +41,18 @@ publishDir       = "public"
     url    = "https://www.yuque.com/shenweiyan"
     weight = 6
 [[menu.main]]
+    name   = "归档"
+    url    = "/archive/"
+    weight = 7
+[[menu.main]]
     name   = "留言"
     url    = "/feedback/"
-    weight = 7
+    weight = 8
+[[menu.main]]
+    name = "标签"
+    url = "/tags/"
+    weight = 9
+
 
 [params]
     siteurl     = "https://www.shumlab.com"

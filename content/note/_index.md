@@ -1,6 +1,7 @@
 ---
-title: "博客文章"
+title: "博客随笔"
 date: "2021-12-30"
+description: "随笔"
 disable_comments: true
 ---
 
