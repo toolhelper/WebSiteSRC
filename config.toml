@@ -1,19 +1,19 @@
-baseurl      = "https://www.shumlab.com"
-RelativeURLs = true
-CanonifyURLs = true
-languageCode = "zh-cn"	                  # html的lang属性值
-DefaultContentLanguage = "zh-cn"   	  # 默认内容语言用于选择i18n语言模板
-title            = "沈维燕 | BioIT 爱好者"
-theme            = "ICS-Hugo-Theme"
-#googleAnalytics = "UA-112592341-1"
-disqusShortname  = "shen-bioinit"
-ignoreFiles      = ["\\.Rmd$", "_files$", "_cache$"]
-hasCJKLanguage   = true                             # .WordCount works correctly for chinese
-enableEmoji      = true
+baseurl                    = "https://www.shumlab.com"
+RelativeURLs               = true
+CanonifyURLs               = true
+languageCode               = "zh-cn"	           		# html的lang属性值
+DefaultContentLanguage     = "zh-cn"   	  	   		# 默认内容语言用于选择i18n语言模板
+title                      = "沈维燕 | BioIT 爱好者"
+theme                      = "ICS-Hugo-Theme"
+googleAnalytics            = ""
+disqusShortname            = ""
+ignoreFiles                = ["\\.Rmd$", "_files$", "_cache$"]
+hasCJKLanguage             = true                   		# .WordCount works correctly for chinese
+enableEmoji                = true
 footnotereturnlinkcontents = "↩"
-MetaDataFormat   = "yaml" 			  # format of a new post
-enableGitInfo    = false
-publishDir       = "public"
+MetaDataFormat             = "yaml"		                # format of a new post
+enableGitInfo              = false
+publishDir                 = 'public'
 
 
 [[menu.main]]
@@ -37,34 +37,34 @@ publishDir       = "public"
     url    = "/portfolio/"
     weight = 5
 [[menu.main]]
-    name   = "语雀"
-    url    = "https://www.yuque.com/shenweiyan"
-    weight = 10
-[[menu.main]]
     name   = "归档"
     url    = "/archive/"
-    weight = 7
+    weight = 6
 [[menu.main]]
     name   = "留言"
     url    = "/feedback/"
-    weight = 8
+    weight = 7
 [[menu.main]]
     name = "标签"
     url = "/tags/"
-    weight = 9
+    weight = 8
+[[menu.main]]
+    name   = "语雀"
+    url    = "https://www.yuque.com/shenweiyan"
+    weight = 9    
 
 
 [params]
-    siteurl     = "https://www.shumlab.com"
-    description = "Bio & IT 爱好者"
-    disqusURL   = "https://shenweiyan.github.io/shen.bioitee.com/"
-    customJS    = []
+    siteurl          = "https://www.shumlab.com"
+    description      = "Bio & IT 爱好者"
+    disqusURL        = ""
+    customJS         = []
     githubContentURL = "https://github.com/shumlab/shumlab.github.io/edit/master/content/"
     highlightjsTheme = "https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.3.1/build/styles/github.min.css"
-    dateFormat  = "2019-01-01"   #"2019-01-01, Mon, "
-    loadTypekit = false
-    recentPosts = false         #首页最近更新文章
-    fancybox    = true
+    dateFormat       = "2019-01-01"   
+    loadTypekit      = false
+    recentPosts      = false          # 首页最近更新文章
+    fancybox         = true
 
 [params.footer]
     copyright = "<br/><br/>&copy; Powered by [ICS-Hugo-Theme](https://github.com/shenweiyan/ICS-Hugo-Theme) and  [Hugo](https://gohugo.io) | [Bio IT 爱好者](https://www.bioitee.com/) 2018 - {year} | [粤ICP备16023717号](http://beian.miit.gov.cn/)<br/>"
@@ -80,9 +80,6 @@ publishDir       = "public"
     alt = "Steven Shum"
     tag = ""
 
-[markup.goldmark.renderer]
-    unsafe = true
-
 [params.lang.edit]
     cn = "编辑"
 [params.lang.license]
@@ -97,6 +94,9 @@ publishDir       = "public"
     theme     = "github-light"         # 样式主题
 
 [taxonomies]
-    tag      = "topic/tags"
-    series   = "topic/series"
-    category = "topic/categories"
+    tag      = "tags"
+    series   = "series"
+    category = "categories"
+
+[markup.goldmark.renderer]
+    unsafe = true
