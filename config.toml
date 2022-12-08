@@ -39,7 +39,7 @@ publishDir       = "public"
 [[menu.main]]
     name   = "语雀"
     url    = "https://www.yuque.com/shenweiyan"
-    weight = 6
+    weight = 10
 [[menu.main]]
     name   = "归档"
     url    = "/archive/"
