@@ -1,19 +1,21 @@
 ---
-title: 2022 年卡塔尔世界杯
-slug: 2022-qatar-world-cup
-date: 2022-12-19 09:52:20
+title: '2022 年卡塔尔世界杯'
+slug: 'qatar-world-cup-2022'
+date: '2022-12-19'
+lastmod: '2022-12-19'
 type: post
 published: true
 author: 沈维燕
-tags: ["ag=乱弹","足球"]
+tags: ["乱弹","足球"]
 ---
 
-> 编者：本文章同步自作者的[语雀知识库](https://www.yuque.com/shenweiyan/)，请点击[这里](https://www.yuque.com/shenweiyan/mind/2022-qatar-world-cup)阅读原文。
+> 编者：本文章同步自作者的[语雀知识库](https://www.yuque.com/shenweiyan/)，请点击[这里](https://www.yuque.com/shenweiyan/mind/qatar-world-cup-2022)阅读原文。
 
 2022 年 12 月 18 日，有幸从头到尾看完了这一场精彩而刺激的世界杯决赛！！！
 
-> 📢 **当地时间 2022 年 12 月 18 日，卡塔尔卢塞尔城 2022 卡塔尔世界杯决赛，阿根廷 3-3 法国（点球 4-2）！**
-> 📢 [卡塔尔世界杯决赛算不算的上是有史以来最精彩的世界杯决赛？](https://www.zhihu.com/question/573022232) - 知乎
+> **📢 阿根廷冠军！**
+> - **当地时间 2022 年 12 月 18 日，卡塔尔卢塞尔城 2022 卡塔尔世界杯决赛，阿根廷 3-3 法国（点球 4-2）！**
+> - [卡塔尔世界杯决赛算不算的上是有史以来最精彩的世界杯决赛？](https://www.zhihu.com/question/573022232) - 知乎
 
 
 诸神黄昏，众神谢幕，最后一舞！一代人终将老去，但总有人正年轻！
