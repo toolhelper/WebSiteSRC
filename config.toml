@@ -55,16 +55,16 @@ publishDir                 = 'public'
 
 
 [params]
-    siteurl              = "https://www.shumlab.com"
-    description          = "Bio & IT 爱好者"
-    disqusURL            = ""
-    customJS             = []
-    githubContentURL     = "https://github.com/shumlab/shumlab.github.io/edit/master/content/"
-    highlightjsTheme     = "https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.3.1/build/styles/github.min.css"
-    dateFormat           = "2019-01-01"   
-    loadTypekit          = false
-    recentPosts          = false          	# 首页最近更新文章
-    fancybox             = true
+    siteurl               = "https://www.shumlab.com"
+    description           = "Bio & IT 爱好者"
+    disqusURL             = ""
+    customJS              = []
+    githubContentURL      = "https://github.com/shenweiyan/WebSiteSRC/edit/master/content/"
+    highlightjsTheme      = "https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.3.1/build/styles/github.min.css"
+    dateFormat            = "2019-01-01"   
+    loadTypekit           = false
+    recentPosts           = false          	# 首页最近更新文章
+    fancybox              = true
     baiduSiteVerificateID = "code-HxM5pCr1nD"   # 百度搜索资源平台HTML标签验证码
 
 [params.footer]
