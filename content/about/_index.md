@@ -22,8 +22,8 @@ disable_comments: true
 ### 联系方式
 
 - 微信：ishenweiyan（[请备注真实姓名，否则不通过](https://www.yuque.com/shenweiyan/about/me#iSxp2)）
-- 地址：广州市黄埔区科学城科学大道182号创新大厦
 - 邮箱：shumlab@foxmail.com
+- 地址：广州市黄埔区科学城科学大道182号创新大厦
 
 
 ### 其他信息
@@ -47,6 +47,9 @@ disable_comments: true
 <br/>
 
 **本博客更新历史：**
+
+- **2023.02.14：**
+    1. 更新页面的一些主要介绍信息。
 
 - **2022.12.05：**
     1. 统一把 [www.shumlab.com](https://www.shumlab.com) 用于个人博客；[shumlab.com](https://shumlab.com) 重定向至个人语雀知识库。
