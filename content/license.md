@@ -16,4 +16,4 @@ disable_comments: true
 
 **关于评论：**
 
-本站所有文章已经停用 utterances 等评论模块，如果你有任何建议，欢迎留言。相关文章的更多详细信息，请移步本博客的 "[语雀专栏](https://www.yuque.com/shenweiyan)" 的具体文章进行查看，感谢你的一路支持！
+本站所有文章已经**停用** utterances 等评论模块，如果你有任何建议，欢迎移步 **[这里](https://www.yuque.com/shenweiyan/wow/omzk7b)** 留言。相关文章的更多详细信息，请移步本博客的 "[语雀专栏](https://www.yuque.com/shenweiyan)" 的具体文章进行查看，感谢你的一路支持！
