@@ -3,7 +3,7 @@ title: "博客和笔记的那些事情"
 date: '2022-11-02'
 lastmod: '2022-12-05'
 author: 沈维燕
-type: post
+type: posts
 published: true
 ---
 

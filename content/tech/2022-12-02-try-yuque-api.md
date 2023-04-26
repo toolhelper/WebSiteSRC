@@ -2,7 +2,7 @@
 title: 基于语雀 API 的文档管理探索
 slug: try-yuque-api
 date: 2022-12-02 15:23:26
-type: post
+type: posts
 published: true
 author: 沈维燕
 tags: ["语雀","Python"]

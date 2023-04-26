@@ -3,7 +3,7 @@ title: 'All in Yuque'
 slug: 'all-in-yuque'
 date: '2023-02-07'
 lastmod: '2023-02-08'
-type: post
+type: posts
 published: true
 author: 沈维燕
 tags: ["语雀","知识管理"]

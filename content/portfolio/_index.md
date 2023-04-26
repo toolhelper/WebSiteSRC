@@ -5,7 +5,7 @@ title: "作者作品"
 slug: ''
 date: "2016-05-05"
 description: "作品"
-type: post
+type: posts
 published: true
 author: 沈维燕
 category:

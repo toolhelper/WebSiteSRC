@@ -3,7 +3,7 @@ title: '2022 年卡塔尔世界杯'
 slug: 'qatar-world-cup-2022'
 date: '2022-12-19'
 lastmod: '2022-12-20'
-type: post
+type: posts
 published: true
 author: 沈维燕
 tags: ["乱弹","足球"]

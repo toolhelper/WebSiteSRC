@@ -3,7 +3,7 @@ title: '个人独立博客的两个建议'
 slug: 'blog-two-suggestions'
 date: '2023-02-17'
 lastmod: '2023-02-17'
-type: post
+type: posts
 published: true
 author: 沈维燕
 tags: ["博客"]

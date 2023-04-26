@@ -2,7 +2,7 @@
 title: NCBI Blast 源码编译安装方法
 slug: ncbi-blast-configure
 date: 2022-12-02
-type: post
+type: posts
 published: true
 author: 沈维燕
 category:
