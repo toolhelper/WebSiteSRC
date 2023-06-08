@@ -19,8 +19,9 @@ $ git pull https://github.com/shenweiyan/ICS-Hugo-Theme.git
 
 通过 GitHub Actions - [HugoAction.yml](https://github.com/shenweiyan/WebSiteSRC/blob/main/.github/workflows/HugoAction.yml)，本源码执行自动构建，并发布到以下仓库。
 
-- GitHub: [ShumLab/ShumLab.github.io](https://github.com/ShumLab/ShumLab.github.io) (main), 启用 GitHub Pages 并绑定以下域名
-  - [https://www.shumlab.com/](https://www.shumlab.com/)
+- GitHub: [ShumLab/ShumLab.github.io](https://github.com/ShumLab/ShumLab.github.io) (main)：
+  - 启用 GitHub Pages，绑定以下域名：[https://www.shumlab.com/](https://www.shumlab.com/)
 
-- GitHub: [shenweiyan/WebSite](https://github.com/shenweiyan/WebSite) (main), 启用 GitHub Pages 并绑定以下域名
-  - [https://shen.bioitee.com/](https://shen.bioitee.com/)
+- GitHub: [shenweiyan/WebSite](https://github.com/shenweiyan/WebSite) (main)：
+  - 启用 GitHub Pages，绑定以下域名：[https://shen.bioitee.com/](https://shen.bioitee.com/)
+  - 启用 CloudFlare Pages，绑定自定义域名：[https://blog.weiyan.cc/](https://blog.weiyan.cc/)
