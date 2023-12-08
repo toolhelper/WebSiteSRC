@@ -1,4 +1,4 @@
-baseurl                    = "https://www.shumlab.com"
+baseurl                    = "https://blog.weiyan.cc"
 RelativeURLs               = true
 CanonifyURLs               = true
 languageCode               = "zh-cn"	           		# html的lang属性值
@@ -55,7 +55,7 @@ publishDir                 = 'public'
 
 
 [params]
-    siteurl               = "https://www.shumlab.com"
+    siteurl               = "https://blog.weiyan.cc"
     description           = "Bio & IT 爱好者"
     disqusURL             = ""
     customJS              = []
