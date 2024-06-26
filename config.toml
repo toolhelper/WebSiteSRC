@@ -1,9 +1,9 @@
-baseurl                    = "https://blog.weiyan.cc"
+baseurl                    = "https://blog.bigshot.fans"
 RelativeURLs               = true
 CanonifyURLs               = true
 languageCode               = "zh-cn"	           		# html的lang属性值
 DefaultContentLanguage     = "zh-cn"   	  	   		# 默认内容语言用于选择i18n语言模板
-title                      = "沈维燕 | BioIT 爱好者"
+title                      = "这是一个测试blog"
 theme                      = "ICS-Hugo-Theme"
 googleAnalytics            = ""
 disqusShortname            = ""
@@ -55,7 +55,7 @@ publishDir                 = 'public'
 
 
 [params]
-    siteurl               = "https://blog.weiyan.cc"
+    siteurl               = "https://blog.bigshot.fans"
     description           = "Bio & IT 爱好者"
     disqusURL             = ""
     customJS              = []
@@ -73,7 +73,7 @@ publishDir                 = 'public'
 
 [params.author]
     en = "Steven Shum"
-    cn = "沈维燕"
+    cn = "啊手动阀"
 
 [params.logo.en]
     img = "https://apps-db.oss-cn-shenzhen.aliyuncs.com/logos/shenweiyan.png"
